@@ -1,1 +1,1 @@
-# git_test
+This is Emmanuel's first Git Project
